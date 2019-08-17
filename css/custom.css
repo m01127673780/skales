@@ -1,0 +1,68 @@
+.buttons-effects {
+    margin-bottom:0;
+}
+.join-us article {
+     margin: 0; 
+}
+.p-margin-bootom{ 
+    margin-bottom: 70px;
+}
+.app-review {
+    background: #f4f4f4;
+    padding-top: 8px;
+    padding-bottom: 120px;
+    /* color: #000; */
+}.background-f4 {
+    background: #f4f4f4;
+     
+}
+.price-table .price-box ul li {
+     background: #f4f4f4;
+}
+.price-box {
+    color: #7cb62f;
+    box-shadow: 0 10px 37px -11px #888;
+}
+.price-box {
+    padding: 10px;
+    color: red;
+    box-shadow: 0 10px 37px -11px #888;
+    border-bottom-left-radius: 64px;
+    margin: 10px 0;
+}
+.one-catousel-custom {
+     background: #bd1c4b;
+}
+.pricing-table.text-center{
+    background: #f4f4f4;
+    padding-top: 40px;
+}
+.fa-long-arrow-right:hover{
+margin-left: 10px;
+   
+     -webkit-transition-timing-function: linear;
+
+         -o-transition-timing-function: linear;
+
+            -ms-transition-timing-function: linear;
+            -webkit-transition: margin-left 1s; /* Safari */
+  -webkit-transition-timing-function: linear; /* Safari */
+  transition: margin-left 1s;
+    
+}
+.prnd-imges {
+    width: 100%;
+    background: none;
+    }
+    .background-f4 img {
+    border-radius: 50% 20% 50% 20%;
+    }
+ .card-body {
+    border-radius: 50% 20% 50% 20% !important;
+    }
+
+
+.buttons button {
+   
+    margin-top: 100px;
+}
